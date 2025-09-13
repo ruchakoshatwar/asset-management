@@ -1,0 +1,42 @@
+﻿body 
+{
+    margin:0;
+    padding:0;
+    height:100%;
+    scroll-behavior:smooth;
+    background-image: url('../imgs/bina-refineries-9903b1.jpg');
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+}
+
+nav
+{
+    padding:16px 32px;
+}
+
+.nav-link 
+{
+    color: black;
+}
+
+#label2
+{
+    
+}
+
+.album py-5 bg-light
+{
+    
+    align-self:center
+}
+.footerlinks 
+{
+    color: black;
+}
+
+.footerlinks:hover
+{
+    color:aquamarine;
+}
+
+
